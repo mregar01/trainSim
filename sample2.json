@@ -1,0 +1,10 @@
+{
+    "lines": {      
+      "green": [ "Tufts", "Next", "Park"],
+      "red": [ "Kendall", "Park", "JFK" ]
+    },
+    "trips": {
+      "Bob": [ "Tufts", "Park", "JFK" ]
+    }
+  }
+  

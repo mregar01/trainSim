@@ -1,0 +1,4 @@
+I have two classes, Trainstate and RiderState, both of which extend thread. In
+mbta, I have a passenger lock and a train lock. Then in Trainstate and 
+RiderState I make use of those locks by unlocking and locking when necessary. 
+I also have conditions that i use for each of those locks.
